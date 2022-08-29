@@ -1,0 +1,21 @@
+In terminal run:
+npx create-react-app ./ //This sets up react with all of its files in the
+
+TO CREATE A REACT FUNCTIONAL COMPONENT:
+In the App.js file type: rafce
+
+In termanal run:
+npm install react-icons  //
+
+To run project: npm start
+
+*** Termainal Commands ***
+Run Project: npm start
+Create a Production Build: npm run build
+
+
+
+*** INFO ***  
+package-lock.json: shows all versions being used for the application.
+.fitignore: file that you use to control what goes in source control. Anything in here will be ignored in source control. 
+
